@@ -1,0 +1,19 @@
+div {
+  height: 500px;
+  background-color: black;
+
+}
+button{
+  margin: 5px 0 5px 0;
+  width: 100%;
+  color:#fff;
+  font-weight: bold;
+}
+
+
+.btn:disabled {
+  /* opacity: .65; */
+  background-color: black;
+}
+
+

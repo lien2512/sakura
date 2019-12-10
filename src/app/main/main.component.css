@@ -1,0 +1,20 @@
+.main{
+  height: 500px;
+}
+.search{
+  margin: 5px 0 5px 0;
+}
+.row{
+  margin: 5px 0 5px 0;
+}
+.thead-primary{
+  background-color: aqua;
+}
+#add{
+  margin-left: 300px;
+}
+.pagination{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
